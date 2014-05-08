@@ -1,0 +1,47 @@
+[
+  {
+    "lat": 48.0431,
+    "lng": 37.793,
+    "title": "Donetsk"
+  },
+  {
+    "lat": 50.4310,
+    "lng": 30.5863,
+    "title": "Kiev"
+  },
+  {
+    "lat": 49.8378,
+    "lng": 24.0825,
+    "title": "Lviv"
+  },
+  {
+    "lat": 46.5181,
+    "lng": 30.7621,
+    "title": "Odessa"
+  },
+  {
+    "lat": 50.0363,
+    "lng": 36.2992,
+    "title": "Kharkov"
+  },
+  {
+    "lat": 47.9251,
+    "lng": 35.1566,
+    "title": "Zaporozhye"
+  },
+  {
+    "lat": 49.4095,
+    "lng": 32.1244,
+    "title": "Cherkasy"
+  },
+  {
+    "lat": 48.4833,
+    "lng": 35.0687,
+    "title": "Dnepropetrovsk"
+  },
+  {
+    "lat": 44.9800,
+    "lng": 34.1019,
+    "title": "Simferopol"
+  },
+]
